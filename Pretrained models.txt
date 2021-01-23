@@ -1,0 +1,3 @@
+LPCNET: https://drive.google.com/file/d/1dDKyTB_7QUoQvtf5EyGHwhUioOLBrjxF/view
+
+Tacotron-2: https://drive.google.com/file/d/1JSC0jbdnOi4igCYTnDBdMGXIsp2VeKj9/view
