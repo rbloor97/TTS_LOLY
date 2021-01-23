@@ -1,0 +1,1 @@
+rm *.s16 *.wav LPCNET/*.f32 | python synthesize.py --model="Tacotron" && mv *.f32 LPCNET && ls LPCNET/ | grep .f32 | cat > LPCNET/features.txt && python script.py 

@@ -1,0 +1,1 @@
+rm *.s16 *.wav LPCNET/*.f32 

@@ -1,3 +1,0 @@
-fer.f32
-finde.f32
-dsad.f32
