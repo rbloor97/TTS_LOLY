@@ -38,17 +38,19 @@ Colocar el modelo en la carpeta `TTS_LOLY/LPCNET`
 
 ## INSTALAR REQUERIMIENTOS
 
+Instalar gcc
+```
+	$ sudo apt-get install gcc
+	$ sudo apt-get install g++
+```
+
 Intalar:
 ```
   $ sudo apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
 
   $ sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
 ```
-Instalar gcc
-```
-	$ sudo apt-get install gcc
-	$ sudo apt-get install g++
-```
+
 Numpy 
 ```
 	$ pip install numpy==1.17.0
