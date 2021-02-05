@@ -14,7 +14,7 @@ Guia de usuario para ambiente WSL 18.04 o Linux 18.04:
 
 Descargar e instalar anconda para Linux 18.04:
 
-https://www.how2shout.com/how-to/install-anaconda-wsl-windows-10-ubuntu-linux-app.html
+- [Anaconda 3](https://www.how2shout.com/how-to/install-anaconda-wsl-windows-10-ubuntu-linux-app.html)
 
 Crear un ambiente
 
@@ -27,12 +27,12 @@ Crear un ambiente
 
 Español
 Tacotron 2 (55 k):
-https://drive.google.com/file/d/1JSC0jbdnOi4igCYTnDBdMGXIsp2VeKj9/view
+[Click aquí](https://drive.google.com/file/d/1JSC0jbdnOi4igCYTnDBdMGXIsp2VeKj9/view)
 
 Colocar el modelo en una nueva carpeta `TTS_LOLY/logs-Tacotron/taco_pretrained`
 
 LPCNet:
-https://drive.google.com/file/d/1dDKyTB_7QUoQvtf5EyGHwhUioOLBrjxF/view?usp=sharing
+[Clic aquí](https://drive.google.com/file/d/1dDKyTB_7QUoQvtf5EyGHwhUioOLBrjxF/view?usp=sharing)
 
 Colocar el modelo en la carpeta `TTS_LOLY/LPCNET`
 
@@ -84,6 +84,6 @@ TypeError: create_target_machine() got an unexpected keyword argument 'jitdebug'
 ```
 ModuleNotFoundError: No module named 'numpy.testing.decorators'
 ```
-	$ pip uninstall numpy 
+  $ pip uninstall numpy 
   $ pip install numpy==1.17.0
   ```
