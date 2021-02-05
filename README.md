@@ -44,11 +44,11 @@ Instalar gcc
 	$ sudo apt-get install g++
 ```
 
-Intalar:
+Instalar dependencias:
 ```
-  $ sudo apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
+  	$ sudo apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
 
-  $ sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
+ 	$ sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
 ```
 
 Numpy 
@@ -61,7 +61,7 @@ Instalar Tensorflow = 1.15
 ```
 Instalar requerimientos.txt
 ```	
-  $ pip install -r requirements.txt
+  	$ pip install -r requirements.txt
 ```
 
 ## SINTETIZAR
@@ -70,7 +70,7 @@ En el archivo sentences.txt se escriben las oraciones que se desean sintetizar.
 
 Ejecutar script
 ```	
-  $ bash script.sh
+ 	$ bash script.sh
 ```
 ## Repositorios externos
 
@@ -82,10 +82,10 @@ Esta implementación esta basada en los siguientes repositorios:
 
 TypeError: create_target_machine() got an unexpected keyword argument 'jitdebug'
 ```	
-  $ pip install -U llvmlite==0.32.1
+  	$ pip install -U llvmlite==0.32.1
 ```
 ModuleNotFoundError: No module named 'numpy.testing.decorators'
 ```
-  $ pip uninstall numpy 
-  $ pip install numpy==1.17.0
+  	$ pip uninstall numpy 
+  	$ pip install numpy==1.17.0
   ```
