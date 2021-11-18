@@ -12,7 +12,7 @@ Guia de usuario para ambiente WSL 18.04 o Linux 18.04:
 
 ## CONFIGURAR EL AMBIENTE OPERATIVO
 
-Descargar e instalar anconda para Linux 18.04:
+Descargar e instalar anaconda para Linux 18.04:
 
 - [Anaconda 3](https://www.how2shout.com/how-to/install-anaconda-wsl-windows-10-ubuntu-linux-app.html)
 
